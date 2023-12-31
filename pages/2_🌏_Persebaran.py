@@ -105,7 +105,7 @@ def main():
         penangkapan, serta (vi) membantu pemulihan ekosistem yang rusak oleh gangguan dari manusia
         dan alam.
 
-        ... (Tambahkan artikel panjang sesuai kebutuhan Anda)
+        
     """)
 
 if __name__ == '__main__':
